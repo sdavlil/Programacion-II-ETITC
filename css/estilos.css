@@ -1,0 +1,54 @@
+.img {
+    width: 500px;
+    height: 450px;
+    
+
+    border-radius: 2rem;
+}
+
+.centrado {
+    text-align: center;
+}
+.mapa {
+
+    margin-top: 25px;
+    margin-bottom: 100px;
+
+}
+.lugares {
+
+    text-align: center;
+}
+body {
+    font-family: tymes 'Times New Roman', Times, serif;
+    background-color: rgb(185,179,175);}
+   h1 {
+    color: rgb(255,255,255);}
+    *{
+        font-family: 'Times New Roman', Times, serif, Verdana, sans-serif;}
+        h1 {
+        font-family: "Courier New", monospace;}
+        i {
+        color: green;}
+        i {
+        color: rgb(0, 0, 0);}
+        b {
+        color: pink;}
+        p b {
+        color: blue !important;}
+        p b {
+        color: violet;}
+        p#intro {
+        font-size: 100%;}
+        p {
+        color: black;
+        font-size: 100%;}
+
+        body {
+            font-family: tymes 'Times New Roman', Times, serif, Verdana, sans-serif;
+            color: #070707;
+            padding: 10px;}
+            .page {
+            border: 1px solid #665544;
+            background-color: #efefef;
+            padding: inherit;} 
